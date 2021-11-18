@@ -2,6 +2,6 @@
 layout: subcategory
 title: chongtong
 category: chongtong
-parent: short-story
+parent: shortstory
 nav_order: 3
 ---
