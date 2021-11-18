@@ -12,9 +12,9 @@ layout: default
  <div class="posts post-list">
   {% for category in sub_categories %}
     <div class="category">
-      <h2>
+      
         <a href="{{category}}" style="color: black;">{{category | upcase}} ({{ site.categories[category] | size }})</a>
-      </h2>
+      
     </div>
     <ul class="posts-list">
       {% for post in site.categories[category] %}
@@ -29,15 +29,3 @@ layout: default
   {% endfor %}
   </div>
 {% endif %}
-
-<ul class="posts-list">
-  {% assign category = page.category | default: page.title %} {% for post in
-  site.categories[category] %}
-  <li>
-    <h3>
-      <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a>
-      <small>{{ post.date | date_to_string }}</small>
-    </h3>
-  </li>
-  {% endfor %}
-</ul>
