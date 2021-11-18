@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [short-story, quest]
+categories: [shortstory, quest]
 title: "퀘스트 1"
 date: 2021-10-29 12:00:00 +0900
 comments: true
