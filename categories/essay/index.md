@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Essay
+title: essay
 category: essay
 has_children: true
 nav_order: 2

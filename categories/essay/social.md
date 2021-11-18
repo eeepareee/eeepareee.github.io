@@ -1,6 +1,6 @@
 ---
 layout: subcategory
-title: Social
+title: social
 category: social
 parent: essay
 nav_order: 1

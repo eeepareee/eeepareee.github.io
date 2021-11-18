@@ -1,6 +1,6 @@
 ---
 layout: subcategory
-title: Social
+title: social
 category: social
 parent: scrap
 nav_order: 1

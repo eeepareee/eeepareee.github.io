@@ -1,6 +1,6 @@
 ---
 layout: subcategory
-title: Science
+title: science
 category: science
 parent: essay
 nav_order: 3
