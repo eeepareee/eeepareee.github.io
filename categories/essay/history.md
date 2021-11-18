@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: subcategory
 title: History
 category: history
 parent: essay

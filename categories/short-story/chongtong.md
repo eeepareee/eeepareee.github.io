@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: subcategory
 title: 대한총통각하
 category: 대한총통각하
 parent: short-story

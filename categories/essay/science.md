@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: subcategory
 title: Science
 category: science
 parent: essay
