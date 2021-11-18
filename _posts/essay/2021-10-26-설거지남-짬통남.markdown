@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [Essay, Social]
+categories: [essay, social]
 title: "설거지남? 짬통남!"
 date: 2021-10-26 00:15:00 +0900
 comments: true

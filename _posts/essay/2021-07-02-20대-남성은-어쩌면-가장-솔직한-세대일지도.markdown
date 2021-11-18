@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [Essay, Social]
+categories: [essay, social]
 title: "20대 남성은 어쩌면 가장 솔직한 세대일수도?"
 date: 2021-07-02 12:00:00 +0900
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Social
-category: Scrap/Social
-parent: Scrap
+category: social
+parent: scrap
 nav_order: 1
 ---

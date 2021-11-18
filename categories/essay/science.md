@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Science
-category: Essay/Science
-parent: Essay
+category: science
+parent: essay
 nav_order: 3
 ---

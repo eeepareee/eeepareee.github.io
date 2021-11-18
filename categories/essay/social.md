@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Social
-category: Essay/Social
-parent: Essay
+category: social
+parent: essay
 nav_order: 1
 ---
