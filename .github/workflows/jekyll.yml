@@ -16,11 +16,12 @@ jobs:
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        token: ${{ secrets.JEKYLL_PAT }}
         restore-keys: |
           ${{ runner.os }}-gems-
 
     # Standard usage
     - uses:  helaili/jekyll-action@2.0.3
+      with:
+        token: ${{ secrets.JEKYLL_PAT }}
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
