@@ -1,6 +1,6 @@
 ---
 layout: subcategory
-title: History
+title: history
 category: history
 parent: essay
 nav_order: 2

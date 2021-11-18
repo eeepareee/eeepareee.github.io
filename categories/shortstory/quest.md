@@ -1,6 +1,6 @@
 ---
 layout: subcategory
-title: 퀘스트
+title: quest
 category: quest
 parent: shortstory
 nav_order: 3
