@@ -1,6 +1,6 @@
 ---
 layout: category
-title: shortstory
+title: Short-Story
 category: shortstory
 has_children: true
 nav_order: 3

@@ -1,8 +1,5 @@
 {% assign sub_categories = "" | split: "" %}
-{% assign sub_categories = sub_categories | push: page.category %}
-
 {% for post in site.categories[page.category] %}
-  {% assign sub_categories = sub_categories | push: page.category %}
   {% for category in post.categories %}
     {% if category != page.category %}
     	{% assign downcase_category = category | downcase %}
