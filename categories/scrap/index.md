@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: subcategory
 title: scrap
 category: scrap
 has_children: false
